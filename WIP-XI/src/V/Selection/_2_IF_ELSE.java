@@ -10,7 +10,7 @@ package V.Selection;
  */
 public class _2_IF_ELSE {
     public static void main(String[] args) {
-        int money = 600;
+        int money = 220;
         int price = 500;
         
         if(money >= price){

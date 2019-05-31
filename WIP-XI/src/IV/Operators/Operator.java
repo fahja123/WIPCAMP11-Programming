@@ -10,8 +10,8 @@ package IV.Operators;
  */
 public class Operator {
     public static void main(String[] args) {
-        int x = 7;
-        int y = 5;
+        int x = 10;
+        int y = 35;
         
         System.out.println("+ : "+ (x + y) );
         

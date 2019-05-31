@@ -21,9 +21,9 @@ package I.Variables;
  */
 public class Variable {
     public static void main(String[] args) {
-        int eiei = 214;
+        int money = 1024;
         
-        System.out.println("money : " + eiei);
+        System.out.println("money : " + money);
         
         int wippoWallet = 1000;
         

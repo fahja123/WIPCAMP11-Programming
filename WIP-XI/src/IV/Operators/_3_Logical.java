@@ -14,10 +14,10 @@ public class _3_Logical {
         
         System.out.println("|| : " + (x < 4 || x > 4));
         
-        System.out.println("&& : " + (x > 4 && x < 5));
+        System.out.println("&& : " + (x > 4 && x < 4));
         
-        System.out.println("Normal : " + (x >= 6));
+        System.out.println("Normal : " + (x >= 5));
         
-        System.out.println("! : " + !(x >= 7));
+        System.out.println("! : " + !(x >= 5));
     }
 }
